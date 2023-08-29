@@ -73,7 +73,7 @@ class _LoginPageState extends State<LoginPage> {
                       ),
                     ),
                     labelText: 'Phone',
-                    hintText: 'Enter your phone number',
+                    hintText: 'Enter your phone number test',
                     prefixIcon: Icon(Icons.phone),
                   ),
                   maxLines: 1,
